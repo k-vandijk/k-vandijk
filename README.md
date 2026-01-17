@@ -1,14 +1,14 @@
 # Kevin van Dijk
 
-.NET developer met een focus op web- en cloudoplossingen.  
-Ik bouw graag robuuste software met duidelijke structuur, aandacht voor kwaliteit en oog voor onderhoudbaarheid.
+Software engineer specialized in .NET-based platforms and cloud-native solutions.  
+Experienced in designing and maintaining scalable, production-grade systems with a strong focus on code quality, security, and long-term maintainability.
 
-## Tech stack
+## Technical expertise
 
-- **Backend:** C# / .NET, Azure Functions, REST APIs  
-- **Frontend:** Angular, React  
-- **Mobile:** .NET MAUI, Flutter  
-- **Data:** PostgreSQL, SQL Server  
-- **Cloud & tooling:** Azure, Azure DevOps, Git
+- **Backend engineering:** C#, .NET, Azure Functions, API design  
+- **Frontend engineering:** Angular, React  
+- **Cross-platform development:** .NET MAUI, Flutter  
+- **Data platforms:** PostgreSQL, SQL Server  
+- **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Git
 
-Meer over mij: https://www.k-vandijk.nl
+More about me: https://www.k-vandijk.nl
