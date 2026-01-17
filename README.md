@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm [YOUR NAME]
 
-<!--
-**k-vandijk/k-vandijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a [YOUR ROLE/TITLE] passionate about [YOUR INTERESTS/FOCUS AREAS].
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: [PROJECT OR COMPANY]
+- 🌱 Learning: [TECHNOLOGIES/SKILLS YOU'RE LEARNING]
+- 💡 Interested in: [YOUR TECH INTERESTS]
+- 📫 Reach me at: [YOUR EMAIL OR CONTACT METHOD]
+
+## 🛠️ Tech Stack
+
+[ADD YOUR TECHNOLOGIES - e.g., Python, JavaScript, React, Docker, etc.]
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=k-vandijk&show_icons=true&theme=default)
+
+---
+
+💬 Feel free to explore my repositories and reach out if you'd like to collaborate!
