@@ -1,16 +1,14 @@
-## Hi there 👋
+# Kevin van Dijk
 
-<!--
-**k-vandijk/k-vandijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET developer met een focus op web- en cloudoplossingen.  
+Ik bouw graag robuuste software met duidelijke structuur, aandacht voor kwaliteit en oog voor onderhoudbaarheid.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** C# / .NET, Azure Functions, REST APIs  
+- **Frontend:** Angular, React  
+- **Mobile:** .NET MAUI, Flutter  
+- **Data:** PostgreSQL, SQL Server  
+- **Cloud & tooling:** Azure, Azure DevOps, Git
+
+Meer over mij: https://www.k-vandijk.nl
