@@ -1,22 +1,14 @@
-# Hi there! 👋 I'm [YOUR NAME]
+# Kevin van Dijk
 
-Welcome to my GitHub profile! I'm a [YOUR ROLE/TITLE] passionate about [YOUR INTERESTS/FOCUS AREAS].
+.NET developer met een focus op web- en cloudoplossingen.  
+Ik bouw graag robuuste software met duidelijke structuur, aandacht voor kwaliteit en oog voor onderhoudbaarheid.
 
-## 🚀 About Me
+## Tech stack
 
-- 🔭 Currently working on: [PROJECT OR COMPANY]
-- 🌱 Learning: [TECHNOLOGIES/SKILLS YOU'RE LEARNING]
-- 💡 Interested in: [YOUR TECH INTERESTS]
-- 📫 Reach me at: [YOUR EMAIL OR CONTACT METHOD]
+- **Backend:** C# / .NET, Azure Functions, REST APIs  
+- **Frontend:** Angular, React  
+- **Mobile:** .NET MAUI, Flutter  
+- **Data:** PostgreSQL, SQL Server  
+- **Cloud & tooling:** Azure, Azure DevOps, Git
 
-## 🛠️ Tech Stack
-
-[ADD YOUR TECHNOLOGIES - e.g., Python, JavaScript, React, Docker, etc.]
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=k-vandijk&show_icons=true&theme=default)
-
----
-
-💬 Feel free to explore my repositories and reach out if you'd like to collaborate!
+Meer over mij: https://www.k-vandijk.nl
