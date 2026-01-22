@@ -11,4 +11,6 @@ Experienced in designing and maintaining scalable, production-grade systems with
 - **Data platforms:** PostgreSQL, SQL Server  
 - **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Git
 
-More about me: https://www.k-vandijk.nl
+<a href="https://github.com/k-vandijk">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-vandijk&count_private=true&show_icons=true" />
+</a>
